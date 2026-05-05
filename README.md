@@ -179,4 +179,4 @@ Automate data collection pipeline
 This project demonstrates how remote sensing and deep learning can be combined to monitor forest changes effectively. It provides a scalable approach for environmental monitoring and conservation.
 
 👩‍💻 Author
-Shivanshi
+Shivanshi Kalra, Neel Samaiyar
